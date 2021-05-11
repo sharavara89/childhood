@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="contacts__descr underlined">
-                    <?php the_field('where_to_find', 2); ?>
+                    <?php the_field('where_to_find'); ?>
                 </div>
             </div>
             <div class="col-lg-6">
